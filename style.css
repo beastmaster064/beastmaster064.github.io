@@ -1,5 +1,5 @@
 body{
-	background-color: #2b83f2;
+	background: linear-gradient(to right, rgba(43, 50, 91, 1), rgb(130, 164, 223));;
 }
 
 .headingLayout{
@@ -9,7 +9,7 @@ body{
 	
 }
 p#name{
-	width : 700px;
+	width : 1000px;
 }
 a{
 	margin-left: 100px;
