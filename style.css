@@ -1,0 +1,37 @@
+body{
+	background-color: #2b83f2;
+}
+
+.headingLayout{
+	border: 1px solid #000000;
+	height: 125px;
+	background-color: #150909;
+	
+}
+p#name{
+	width : 700px;
+}
+a{
+	margin-left: 100px;
+}
+div.items{
+	width: 30%;
+    line-height: 36px; 
+}
+
+#name{
+	font-family: Pacifico;
+	text-align: center;
+	font-size: 40px;
+    color: white;	
+    padding: auto 50px;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+ul#horizontal-list li {
+		display: inline;
+	}
